@@ -20,7 +20,8 @@ This work discuss the Detailed analysis of the Sales of Amazon for the year of 2
 Business Intelligence tools like Excel and Powerbi are Used.
 Powerbi Used to build whole Framework
 
-
+## Link for Powerbi Report And Documentation
+https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI
 
 
 
